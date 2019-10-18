@@ -1,0 +1,59 @@
+---
+title: "milestone_5"
+author: "Aysha Emmerson"
+date: "18/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<b>A Note About My Final Project</b>
+
+After much thought, I have decided to change directions for my final project. I was never 100% sold on my previous idea, and I want this project to be something I am excited to work on and that I am ultimately proud of. Moreover, I am in the process of applying for a Special Concentration in “Resilience Studies” and wanted to do a project along the lines of this theme. I mentioned this switch to Alice (in person) and she sent me various links to get started with my idea. I also emailed Sascha yesterday to notify him of this change. 
+
+<b>About Page</b>
+
+Studies have shown a statistical correlation between anthropogenic climate change and the frequency/severity of hurricanes worldwide. Some estimates predict a 300% increase in the destructive potential of hurricanes by 2100, due to the production of greenhouses gases. Three Atlantic hurricanes that have occurred within the past three years, Hurricane Maria (Dominica/U.S. Virgin Islands/Puerto Rico, 2017), Hurricane Florence (Cape Verde 2018), and Hurricane Harvey (Texas/Louisiana, 2017), proved absolutely devasting, engendering catastrophic damage and many deaths (https://www.gfdl.noaa.gov/global-warming-and-hurricanes/).
+
+Twitter, you could say, is the barometer for popular sentiment and understandings in North America. It reflects (and forecasts) the changing attitudes and opinions of different groups. To respond to these three natural disasters, people across North America took to Twitter to express their support for the effected populations. The word ‘resilience’ is a buzz-word in many popular and academic spheres. This project aims to look at how sentiments of resilience, and related concepts, are expressed in public spaces—specifically Twitter. What do Twitter users mean by the word ‘resilience’? How do North Americans use Twitter to approach catastrophe and foster resilience? What sort of language do they employ, and what social valences does this language carry? What sentiments receive the most appraisal?
+
+Data from three different Twitter ID datasets—one for each of the aforementioned hurricanes—will be used to explore these questions. “Sentiment Analysis” will be performed to decipher the opinions and attitudes of Twitter users, as they pertain both to the concept ‘resilience’ as well as to other concepts that are most closely affiliated. The dual-application of the word resilience makes it particularly interesting in the context of natural disaster. Resilience is both environmental and humanitarian—ecological and emotional. Therefore, the project will explore both understandings of resilience separately, before comparing them. It will also explore the sentiments attached to words that are conceptually linked to resilience, and whether they are relatively positive, negative, or neutral.
+
+With the increasing threat of global warming, it seems evermore important to consider our collective capacity to cope with adversity. When its pouring rain, what is the nature of our “outpouring” of support?
+
+<b>Data Scraping/Cleaning</b>
+
+Due to my recent switch in projects, I have not yet had the chance to properly scrape/clean my new datasets. It is going to require a bit of time for me how to learn how to do this using twitter but I will get started on it immediately.
+
+I plan to use the data from the following links:
+
+Hurricane Florence - 
+
+https://digital.library.unt.edu/ark:/67531/metadc1259406/
+
+Hurricane Maria -
+
+https://archive.org/details/puertorico-tweets
+
+Hurricane Harvey - 
+
+https://digital.library.unt.edu/ark:/67531/metadc993940/
+
+In addition, I plan to use the following resources to scrape and clean my data.
+
+-	Python and R packages (e.g., Tweepy for Python and rtweet for R)
+-	Command line tools (e.g., Twarc)
+-	Web applications (e.g., DMI-TCAT and our very own Social Feed Manager)
+-	Plugins for popular analytic packages (e.g., NVIVO, NodeXL for Excel, and TAGS for Google Sheets)
+
+Also, I have been reading up about Sentiment Analysis on the following websites.
+
+-	https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
+-	https://monkeylearn.com/sentiment-analysis/
+
+Once I sort through my data, I will adjust my “About Page” to be more specific, detailing the main variables and variable names to be used.
+
+
+
